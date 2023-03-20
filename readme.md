@@ -10,3 +10,5 @@
     "build": "webpack --mode production"
   }
 ```
+
+## git practice
