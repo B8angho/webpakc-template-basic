@@ -1,1 +1,0 @@
-# webpakc-template-basic
